@@ -1,6 +1,6 @@
 # Corewar 
 
-<img width="100%" src="fdf_img.png"/>
+<img width="100%" src="CW_img.png"/>
 
 ## Pitch
 
